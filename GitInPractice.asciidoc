@@ -1,2 +1,3 @@
 = Git In Practice
 // TODO: write book
+Writing the first part of the book
